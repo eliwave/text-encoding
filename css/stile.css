@@ -1,0 +1,144 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+
+/*end reset. start css*/
+
+html,body{
+	font-family: "Open Sans";
+	font-style: normal;
+    height: 100%;
+    margin: 0;
+    background-color: #F7EBE4;
+}
+
+.pagina{
+	height: auto;
+    width: auto;
+    max-width: 100%;
+    position: relative;
+    padding: 7% 6% 0 6%;
+    text-align: justify;
+}
+
+.pagina{
+	background-color: #F7EBE4;
+}
+
+main{
+	background-image: url("../img/foto.jpg");
+	padding-top: 70%;
+	padding-bottom: 3%;
+	background-color: #F7EBE4;
+	border-bottom: solid;
+}
+
+
+
+header{
+	text-align: center;
+
+}
+
+#thetitle{
+	font-size: 2.6em;
+	display: block;
+}
+
+#thetitle p:last-child {
+    font-size: 0.5em !important;
+}
+
+#publ{
+	margin-top:1%;
+	text-align: center;
+}
+
+#publ p{
+	display:inline-block;
+}
+
+#where p{
+ 	display:inline;
+}
+
+#numPagina {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+#where{
+	margin:0 auto;
+	text-align: center;
+	font-size: 1.4em;
+}
+
+#subtitle{
+	margin:0 auto;
+	text-align: center;
+	font-size: 1.6em;
+	
+}
+
+#projDescription{
+	width:70%;
+	margin:0 auto;
+	text-align: center;
+}
+
+.testo{
+	display:inline;
+	line-height: em;
+	font-size: 1em;
+
+}
+
+.unclear{
+	color:#660066;
+}
+
+.error{
+	color:#B22222;
+	color: red;
+}
+
+.corr{
+	color:#003366;
+	color: red;
+}
+
+.note{
+	font-size:0.8em;
+}
+
+.immagine{
+	height:100%; 
+	float:left;
+	padding-right:5%;
+	margin-bottom: 6%;
+}
+
+stile.css
+Displaying CDT-Elisa.zip.

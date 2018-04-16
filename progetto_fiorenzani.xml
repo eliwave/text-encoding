@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xslprogetto.xsl"?>
+<!DOCTYPE TEI SYSTEM "myTEI.dtd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Ricostruzione digitale di un comunicato dell'UDI di Piombino per la manifestazione del 24 aprile 1981</title>
+        <author>Elisa Fiorenzani</author>
+        <respStmt>
+          <resp>Codificato da</resp>
+          <name>Elisa Fiorenzani</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Università di Pisa</publisher>
+        <date>10-11-2015</date>
+      </publicationStmt>
+      <sourceDesc>
+      	<bibl>
+      		<author>Il movimento delle donne di Piombino</author>
+      		<title>Comunicato dell'UDI di Piombino</title>
+      		<date>24 Aprile 1981</date>
+      	</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>Lo scopo del progetto è quello di codifcare un testo storico che riguarda temi ancora oggi attuali. Saranno codificate in particolare date, avvenimenti, acronimi e leggi.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+		<div>
+			<div>
+				<pb n="1" facs="img/donne0.png"/>
+				<head type="title"><hi rend="uppercase">Difendiamo il consultorio</hi></head>
+				<p>L'istituzione dei consultori con la <seg type="legal_act"  source="http://www.salute.gov.it/imgs/C_17_normativa_1545_allegato.pdf">legge 405</seg>, là dove sono stati costituiti, come nella nostra zona non ha certo risolto i problemi che il movimento delle donne si era posto con questa richiesta.
+				Spesso infatti i consultori si sono trasformati in semplici ambulatori, che spesso funzionano male come tali.</p>
+				<p>In questo documento noi vogliamo chiarire che cosa significa avere per noi un consultorio oggi, anche in relazione all'applicazione della riforma sanitaria.</p>
+				<list>
+					<head><hi rend="uppercase">Che cosa <sic>e'</sic><corr>è</corr> per noi un consultorio</hi>:</head>
+					<item><sic>E'</sic><corr>È</corr> un servizio sociale gratuito</item>
+					<item><sic>E'</sic><corr>È</corr> un'informazione sanitaria e sessuale, assistenza psicologica e sociale per una maternità libera.</item>
+					<item><sic>E'</sic><corr>È</corr> assistenza alla gravidanza e alla maternità.</item>
+					<item><sic>E'</sic><corr>È</corr> tutela della salute della donna e del bambino.</item>
+					<item><sic>E'</sic><corr>È</corr> consulenza medico psicologica alla donna, che decide di interrompere volontariamente una gravidanza indesiderata.</item>
+					<item><sic>E'</sic><corr>È</corr> consulenza per la scelta di anticoncezionali, per una maternità liberamente voluta.</item>
+					<item><sic>E'</sic><corr>È</corr> prevenzione all' aborto.</item>
+					<item><sic>E'</sic><corr>È</corr> possibilità di discutere sui momenti più delicati della vita sessuale della donna, dalla pubertà alla menopausa.</item>
+					<item><sic>E'</sic><corr>È</corr> lavoro di gruppo fra le donne per conoscersi e parlare dei loro problemi.</item>
+					<item><sic>E'</sic><corr>È</corr> promozione e realizzazione di indagini in collaborazione con tutte le realtà operanti nel territorio per la conoscenza delle situazioni, socio economiche,  culturali, sanitarie in cui vivono le donne.</item>
+				</list>
+				
+				<p>Ci sembra che questi obiettivi, che anche la nostra legge regionale prevede non si sono verificati nei nostri consultori si tratta oggi quindi devi metterla in discussione anche in attuazione della riforma sanitaria.</p>
+				<p>Pertanto ci pare dover ribadire partendo dall'esperienza fatta: le attività consulto reali devono essere ben distinte anche se inserite nelle attività distrettuali.</p>
+				<p>Questo punto ci sembra fondamentale perché i problemi delle donne della sessualità, della maternità eccetera... Devono avere e mantenere uno spazio autonomo di gestione e di partecipazione per il raggiungimento degli obiettivi sopraccitati.</p>
+
+				<signed><hi rend="uppercase">Il movimento delle donne di <name type="place">Piombino</name></hi></signed>
+			</div>
+			<div>
+				<pb n="2"  facs="img/donne1.png"/>
+				<head type="title"><hi rend="uppercase">Contraccezione</hi></head>
+				
+				<p>Nell'ambito di interventi del servizio consultoriale il <name type="org">Movimento delle donne di Piombino</name> ritiene di fondamentale importanza accanto agli altri  argomenti che riguardano la vita sessuale della donna affrontare il discorso <hi rend="underline">contraccezione</hi>.</p>
+
+				<div>
+					<head type="title"><hi rend="uppercase">Finalit<sic>a'</sic><corr>à</corr></hi></head>
+	
+					<list>
+						<head>Le principali sulle quali ci muoviamo per un discorso sugli anticoncezionali sono:</head>
+						<item>offrire corretta informazione e conoscenza dei meccanismi che regolano la riproduzione e dei metodi attualmente disponibili per prevenire una gravidanza non desiderata in modo che la donna possa vivere la propria sessualità e di dare quindi la possibilità di scegliere, <hi rend="quoted">"se"</hi>  e <hi rend="quoted">"quando"</hi> e <hi rend="quoted">"quanti"</hi> figli avere.</item>
+						<item>favorire contemporaneamente la presa di coscienza degli aspetti negativi della contraccezione e dare quindi e strumenti di valutazione necessari affinché la donna possa decidere criticamente le proprie scelte evitando così di assumere il ruolo che le è sempre stato imposto: nei confronti della propria salute, cioè quello di accettare passivamente, tutto ciò che gli viene, propagandato come il toccasana a tutti i suoi problemi; esclusivamente per interesse di mercato.</item>
+					</list>
+					<list>
+						<head>L'informazione è articolata di incontri di gruppo che tratteranno discuteranno sui seguenti temi:</head>
+						<item>apparato genitale ciclo mestruale meccanismi della riproduzione spermatozoo, ovulo, la riproduzione.</item>
+						<item>Metodi contraccettivi: pillola, spirale, diaframma ecc... E relative problematiche.</item>
+						<item>Aspetti psicologici della contraccezione: rifiuto, ansia, paura e il perché.</item>
+					</list>
+				</div>
+				
+				<signed><hi rend="uppercase">Il Movimento delle donne di Piombino</hi></signed>
+			</div>
+			<div>
+				<pb n="3" facs="img/donne2.png"/>
+				<head type="title"><hi rend="uppercase">Maternita' parto</hi></head>
+				
+				<p>Per chiarire le richieste specifiche che facciamo rispetto alla gravidanza e al parto dobbiamo partire da un'affermazione preliminare: il parto è un evento naturale e non patologico e i protagonisti di questo evento sono la madre o della coppia quando questo sia richiesto il bambino e non l'istituzione medica.</p>
+				<p>Non sono queste affermazioni scontate: in effetti la nascita all'interno dei nostri ospedali è diventata un problema dell'istituzione.</p>
+				<p>Viene ad essere negata ogni valenza emotiva, viene negato l'essere persona della madre e del bambino, il vissuto nella loro esperienza ed essi sono invece relegati al ruolo di pazienti, indipendentemente da ogni eventualità patologica.</p>
+				<p>I tempi, i meccanismi del parto non rispondono tanto ai bisogni dei suoi protagonisti naturali, ma la dimensione ai tempi dell'istituzione ospedaliera.</p>
+				<p>In questo senso si possono spiegare anche le resistenze che troviamo alle nostre richieste di parto "non violento": non crediamo che esistano al riguardo gravi problemi tecnici: certamente la difficoltà non sta nello spostare un lettino o nel modificare le luci della sala parto o nel permettere alla donna di condurre il travaglio come meglio crede: la difficoltà sta nella messa in discussione che così si avrebbe nel ruoli interni dei delicati meccanismi attraverso i quali l'istituzione ospedaliera perpetua a se stessa.</p>
+				<p>Noi non crediamo comunque che esista una tecnica migliore di parto: crediamo invece che debba essere restituita al parto alla sua naturalità e il suo aspetto di esperienza umana fondamentale.</p>
+				<p>Il segreto del parto senza violenza, come dice <name type="person">Braibanti</name>, avere il coraggio di togliere dal nostro modo di agire tutto quanto non è necessario, e che è avvertito dalla madre e dal bambino come una sottolineatura della loro violenta separazione.</p>
+				<p>In questa prospettiva <hi rend="underline">chiediamo</hi> che sia lasciata alla donna la possibilità di scelta rispetto al modo migliore di condurre il travaglio, che essa non sia cioè costretta a restare al letto, dato che è stato provato che non esistono controindicazioni mediche a passeggiare durante il travaglio e che anzi questo diminuirebbe la sensazione del dolore e accorcerebbe la durata stessa delle doglie.</p>
+				<p><hi rend="underline">Sottolineiamo</hi> la negatività di una sala travaglio come possono trovarsi contemporaneamente più donne a faso diverse di dilatazione, quando è dimostrato lo effetto di inibizione che hanno le reazioni di una donna ad uno stato più avanzato.</p>
+				<p>A questo proposito chiediamo l'utilizzo delle stanze vuote del reparto per permettere alla donna di condurre il travaglio da sola, con accanto una persona di fiducia.</p>
+				<p>Nella donna il suo ruolo di protagonista, insieme al bambino, del parto, significa anche <hi rend="underline">farle scegliere come partorire</hi>, non obbligandola nella posizione supina, su un lettino scomodo, posizione che non facilita l'esposizione del bambino e che accomoda solo per il medico che può controllare più facilmente il bambino.</p>
+				<p>Anche per la sala parto ci sembra indispensabile la presenza della persona di fiducia che contribuisce a rendere al parto la sua dimensione emotiva intensissima.</p>
+				<p><hi rend="uppercase">Ci sembra inoltre che la violenza più grossa sia rappresentata dalla brusca separazione del bambino dalla madre.</hi></p>
+				<p>Per il bambino alla nascita è di per sé un'esperienza traumatizzante ed essa consiste da una parte nella nascita improvvisa di adattamento ad un ambiente completamente diverso da quello uterino, dall'altra in un trauma più affettivo di separazione, anch'essa violenta, dal grembo materno.</p>
+				<p>Si tratta allora di evitare qualsiasi condizione è che centri allenato questa sensazione di distacco e per far questo occorre prendere coscienza che esso non è un oggetto e che di conseguenza il modo di trattarlo non è affatto indifferente. Il neonato è una persona che ha già una sua esperienza, anche se minima la vita intrauterina, e che ha bisogno di essere rassicurato e indirizzato verso un'accettazione serena del suo nuovo ambiente.</p>
+			</div>
+			<div>
+				<pb n="4" facs="img/donne3.png"/>
+				<p>Noi riteniamo che la violenza naturale dela separazione tra madre bambino sia aumentata dal modo attuale di partorire e cambiare le cose a questo proposito sarebbe veramente estremamente facile. Basterebbe evitare che le luci violente colpiscano agli occhi del bambino; evitare il taglio immediato del cordone ombelicale, aspettando che si sia stabilita la respirazione autonoma e che esso abbia cessato di pulsare; evitare ogni manovra rianimatoria quando essa sia superflua; evitare un ambiente di persone indifferenti a quanto succede; offrire al bambino soprattutto la rassicurazione del grembo materno, la possibilità del suo calore, della sua morbidezza.</p>
+				<p>Anche da parte della madre il parto viene vissuto in genere in modo traumatico, come perdita di una parte di sé: essere che è nato spesso non viene riconosciuto, lo si sente estraneo, non si identifica con quel bambino con cui per nove mesi si è dialogato. Anche per la madre si tratta di imparare ad amare il bambino che è nato e stabilire con lui una relazione affettiva: si tratta per questo di guardarlo, di toccarlo, di accarezzarlo, di allattarlo.</p>
+				<p>A questo proposito riteniamo che l'allattamento debba essere iniziato subito in quanto il riflesso di  suzione, nei momenti immediatamente successivi al parto, è fortissimo e serve a stimolare la formazione del latte. D'altra parte si sembra un'assurdità che al bambino venga negato il colostro materno, ricco di anticorpi, e venga somministrata invece la soluzione glucosata, abituandolo peraltro alla  suzione più facile del <foreign xml:lang="fr">biberon</foreign>.</p>
+				<p><hi rend="underline">La separazione fra madre bambino viene accentuata nei momenti successivi al parto</hi>: la madre in ginecologia, il bambino in pediatria, nella <foreign xml:lang="en">nursery</foreign>. Per cinque giorni la madre è costretta a letto e vede il bambino esclusivamente ogni quattro ore, nel momento della poppata e l'unico contatto che ha con lui è quello dell'alimentazione, contatto peraltro snervante e carico di ansia perché bisogna fare in fretta. Dopo mezz'ora infatti il bambino viene comunque portato via: Non importa se in quel momento dormivo piangeva o non aveva fame; gli orari non sono quelli suoi, ma quelli dell'ospedale. Le conseguenze sono doppiamente negative: nel momento fondamentale dell'allattamento fondamentale della relazione madre bambino si instaura un rapporto ansioso e questo incide anche sulla possibilità di portare avanti con successo l'allattamento al seno. Così mentre si decanta l'unicità del latte materno e magari si colpevolizza la donna se non lo ha ora se non vuole allattare al seno, si fa tutto il contrario affinché esso riesca.</p>
+				<p><hi rend="underline">Chiediamo</hi> quindi che almeno la durata della poppata sia maggiore è che il bambino venga lasciato la madre il tempo necessario non solo per allattarlo, ma anche per poter stare con lui in modo più rilassato.</p>
+				<p>La madre e il bambino devono conoscersi e acquistare confidenza reciproca: per questo riteniamo importante lasciare alla donna la possibilità di accedere alla nursery, per cambiare il bambino, per tenerlo in braccio, per evitare l'insicurezza e la paura che subentrano quando si va a casa e si viene lasciati improvvisamente soli con uno sconosciuto.</p>
+
+				<signed>
+					Il Movimento Delle Donne
+					<address>
+						<addrLine><hi rend="uppercase"><name type="place">Piombino</name></hi></addrLine>
+					</address>
+					<date when="1981-04-24">24/4/1981</date>
+				</signed>
+				
+			</div>
+			<div>
+				<pb n="5" facs="img/donne4.png"/>
+				<head type="title"><hi rend="uppercase">Proposte di modifica alla <seg type="legal_act"  source="http://www.salute.gov.it/imgs/c_17_normativa_845_allegato.pdf">legge 194</seg></hi></head>
+				
+				<p>Dopo la risposta ai <seg type="referendum" source="https://it.wikipedia.org/wiki/Referendum_abrogativi_del_1981_in_Italia">referendum del 17 maggio</seg> si è avuta una riconferma della forza e della maturità del movimento delle donne, pertanto ci sentiamo in grado di potere indicare alcuni miglioramenti e modificare di quelle norme che hanno ostacolato il completo funzionamento della <seg type="legal_act" source="http://www.salute.gov.it/imgs/c_17_normativa_845_allegato.pdf">194</seg>, che prevede non solo all'interruzione di gravidanza quando il superamento completo dell'aborto clandestino e dell'aborto come metodo di controllo delle nascite.</p>
+				<p>Il punto su cui occorre riflettere è il problema dell'obiezione di coscienza dei medici che in questi quasi tre anni, si è risolto sempre in una vera e propria prevaricazione della salute delle donne e della messa in discussione il diritto dell'autodeterminazione. Una delle più grosse conquiste delle donne.</p>
+				<p>È da chiedersi se l'obiezione di coscienza prevista dalla <seg type="legal_act"  source="http://www.salute.gov.it/imgs/c_17_normativa_845_allegato.pdf">194</seg> non contrasti con l'<seg type="article"  source="https://www.senato.it/1025?sezione=120&amp;articolo_numero_articolo=23">art. 23</seg> della costituzione che tutela il diritto alla salute della donna e non prevede l'obiezione di coscienza per il servizio di pubblica utilità; sarebbe quindi logico che un medico che si laurea dopo la riconferma della legge che si specializza ginecologia, debba accettare anche di fare le interruzioni di gravidanza; comunque, come obiettivo minimo proponiamo che l'obiezione sia regolamentata con un minimo del 50% di medici non obiettori attraverso particolari norme di concorsi.</p>
+				<p>Vogliamo che sia possibile abortire anche nei reparti di chirurgia e quindi anche i medici chirurghi e non solo ginecologi siano preparati ciò.</p>
+				<p>Per quanto riguarda la questione delle minorenni dobbiamo cercare tutte le forme attraverso le quali esse possano affermare la loro volontà, provando tutti i modi per coinvolgere i genitori, perché l'obiettivo di superare l'aborto è necessario che la legge contenga norme precise sull'informazione ed educazione sessuale da farsi nelle scuole ricordiamo che giace in <name type="place">Parlamento</name> ostacolata dalla <name type="org"><abbr cert="high" source="https://it.wikipedia.org/wiki/Democrazia_Cristiana">D.C.</abbr></name> una legge presentata dal <name type="org"><abbr cert="high" source="https://it.wikipedia.org/wiki/Partito_Comunista_Italiano">P.C.I.</abbr></name> da undici anni; nei luoghi di lavoro, consultori e nei luoghi dove c'è aggregazione sociale.</p>
+				<p>Oltre a ciò la legge deve secondo noi affrontare altri due problemi, l'allargamento delle strutture pubbliche in cui potere abortire per esempio: le cliniche convenzionate con l'<name type="org"><abbr cert="high" source="https://it.wikipedia.org/wiki/Azienda_sanitaria_locale">U.S.L.</abbr></name> Se hanno un reparto di ostetricia e ginecologia e di chirurgia devono essere convenzionate per l'applicazione della <seg type="legal_act"  source="http://www.salute.gov.it/imgs/c_17_normativa_845_allegato.pdf">194</seg>.</p>
+				<p>Il secondo problema riguarda le donne sole dato che sconfiggere l'aborto non vuole dire assumersi non solo problemi economici ma anche psicologici e educativi, per quelle di noi che decidono di portare avanti una gravidanza in solitudine le cosiddette ragazze madri, le separate, le divorziate, per essere proponiamo una legge che preveda un sostegno economico e sociale facilitandone l'accesso al lavoro, alla casa ai servizi sociali perché la loro gravidanza sia serena e alla vita del figlio sia garantito anche un minimo di sicurezza economica.</p>
+
+				<signed><hi rend="uppercase">Il movimento delle donne di Piombino</hi></signed>
+			</div>
+		</div>
+      
+    </body>
+  </text>
+</TEI>
+
+
+
+
+
+
+
+
+
+
+
+
